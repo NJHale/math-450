@@ -1,0 +1,8 @@
+function [ output_args ] = getLaplaceMatrix( uBound, dBound, lBound, 
+    rBound, length, height, dx, dy )
+%UNTITLED Summary of this function goes here
+%   Detailed explanation goes here
+
+
+end
+
